@@ -48,5 +48,7 @@ it running:
 $ vf cdp
 ```
 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e00358c0d50e8daf5ed8f15ad3a59b3a "githalytics.com")](http://githalytics.com/graffic/virtualfish-project)
+
 [1]: https://github.com/adambrenecki/virtualfish
 [2]: http://virtualenvwrapper.readthedocs.org/en/latest/
